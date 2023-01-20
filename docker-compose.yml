@@ -12,4 +12,4 @@ services:
       - UMASK=022
       - TZ=UTC
     container_name: alist
-    image: 'xhofe/alist-aria2:latest'
+    image: 'zzyac/alist-aria2:latest'
